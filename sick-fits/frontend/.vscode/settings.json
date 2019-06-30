@@ -4,5 +4,13 @@
     "titleBar.inactiveForeground": "#000000CC",
     "titleBar.activeBackground": "#FFC600",
     "titleBar.inactiveBackground": "#FFC600CC"
-  }
+  },
+  "emmet.includeLanguages": {
+    "postcss": "css",
+    "javascript": "javascriptreact"
+  },
+  "emmet.syntaxProfiles": {
+      "postcss": "css",
+      "javascript": "javascriptreact"
+  },
 }
